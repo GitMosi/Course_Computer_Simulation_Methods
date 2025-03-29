@@ -1,4 +1,4 @@
-# Course_Computer_Simulation_Methods
+# Course Computer Simulation Methods
 
 Collection of various C++ simulation projects completed during coursework at K.N.T University of Technology and personal programming exercises.
 
